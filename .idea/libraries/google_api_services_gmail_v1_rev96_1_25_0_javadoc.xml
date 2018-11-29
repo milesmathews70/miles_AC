@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="google-api-services-gmail-v1-rev96-1.25.0-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gmail/google-api-services-gmail-v1-rev96-1.25.0.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gmail/libs" />
+      <root url="jar://$USER_HOME$/Downloads/javax.mail.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javax.servlet-api-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gmail/google-api-services-gmail-v1-rev96-1.25.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gmail/google-api-services-gmail-v1-rev96-1.25.0-sources.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gmail/libs-sources" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/gmail/libs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/gmail/libs-sources" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="5740ac88-b1b6-45b5-ae99-47c1b82e4eed" />
+      <option name="name" value="5740ac88-b1b6-45b5-ae99-47c1b82e4eed" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-servlet-api" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="c839d8d2-6fb5-4d26-871a-92cca28f1588" />
+      <option name="name" value="c839d8d2-6fb5-4d26-871a-92cca28f1588" />
+      <option name="url" value="https://mvnrespository.com/artifact/javax.servlet/javax.servlet-api" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="120c0d18-1f08-4ad2-b7fa-3310cd03fbf3" />
+      <option name="name" value="120c0d18-1f08-4ad2-b7fa-3310cd03fbf3" />
+      <option name="url" value="https://mvnrepository.com/artifact/com.google.code.gson/gson" />
+    </remote-repository>
+  </component>
+</project>
